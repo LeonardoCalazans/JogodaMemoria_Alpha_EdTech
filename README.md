@@ -1,3 +1,7 @@
+## AVISO
+
+Jogo da Memória do desafio Alpha Ed/Tech, um dos jogos de uma prova eliminatória. Esse post é para guardar essa fase e essa plataforma que eu adorei, se você estiver lendo isso é porque autorizaram a postar esse conteúdo. Este projeto não tem nenhuma intenção de burlar ou passar "cola" do código para o processo seletivo da empresa.
+
 
 > Abrir essa página em [https://leonardocalazans.github.io/jogodamemoria_alpha_edtech/](https://leonardocalazans.github.io/jogodamemoria_alpha_edtech/)
 
